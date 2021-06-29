@@ -1,0 +1,27 @@
+import par
+
+Defined Start()
+  par.decline=willfind:exec
+  innersloth.source.refpar.gui=repar
+  client.run.steam.program:blocked
+  repar,refpar="Null"
+
+Return
+
+Defined indexmid)
+  par.decline=willfind:exec
+  innersloth.source.redparr.gui=repparr
+  client.run.steam.program:blocked
+  repar,refpar="Nill"
+
+Return
+
+Defined indexfin()
+  par.decline=willfind:exec
+  innersloth.source.regpar.gui=relpar
+  client.run.steam.program:blocked.expect
+  repar,refpar="bool"
+
+Return
+
+#incomplete
